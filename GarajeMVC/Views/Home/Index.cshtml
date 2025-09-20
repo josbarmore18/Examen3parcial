@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    List<Auto> autosList = Model.getAutos();
+
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Numero</th>
+            <th>Marca</th>
+            <th>Placa</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in autosList)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.numeroAuto)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Marca)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Placa)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

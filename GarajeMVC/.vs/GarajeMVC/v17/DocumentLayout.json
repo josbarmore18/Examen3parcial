@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\TareasGithub\\Examen3parcial\\GarajeMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F84A880F-969C-420D-924D-1A6FA23FB3A2}|GarajeMVC.csproj|c:\\users\\usuario\\desktop\\tareasgithub\\examen3parcial\\garajemvc\\models\\garaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84A880F-969C-420D-924D-1A6FA23FB3A2}|GarajeMVC.csproj|solutionrelative:models\\garaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84A880F-969C-420D-924D-1A6FA23FB3A2}|GarajeMVC.csproj|c:\\users\\usuario\\desktop\\tareasgithub\\examen3parcial\\garajemvc\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84A880F-969C-420D-924D-1A6FA23FB3A2}|GarajeMVC.csproj|solutionrelative:models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84A880F-969C-420D-924D-1A6FA23FB3A2}|GarajeMVC.csproj|c:\\users\\usuario\\desktop\\tareasgithub\\examen3parcial\\garajemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84A880F-969C-420D-924D-1A6FA23FB3A2}|GarajeMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84A880F-969C-420D-924D-1A6FA23FB3A2}|GarajeMVC.csproj|c:\\users\\usuario\\desktop\\tareasgithub\\examen3parcial\\garajemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F84A880F-969C-420D-924D-1A6FA23FB3A2}|GarajeMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TareasGithub\\Examen3parcial\\GarajeMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TareasGithub\\Examen3parcial\\GarajeMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T01:48:51.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TareasGithub\\Examen3parcial\\GarajeMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TareasGithub\\Examen3parcial\\GarajeMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T01:46:22.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Garaje.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TareasGithub\\Examen3parcial\\GarajeMVC\\Models\\Garaje.cs",
+              "RelativeDocumentMoniker": "Models\\Garaje.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TareasGithub\\Examen3parcial\\GarajeMVC\\Models\\Garaje.cs",
+              "RelativeToolTip": "Models\\Garaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T01:44:30.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TareasGithub\\Examen3parcial\\GarajeMVC\\Models\\Auto.cs",
+              "RelativeDocumentMoniker": "Models\\Auto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TareasGithub\\Examen3parcial\\GarajeMVC\\Models\\Auto.cs",
+              "RelativeToolTip": "Models\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T01:43:26.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
